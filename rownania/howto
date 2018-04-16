@@ -1,0 +1,5 @@
+Extract the number
+Find the bounding box
+Scale the image down to something like 10x8, try to match the aspect ratio
+Do this for a small training set, take the 'average' image for each number
+For new images, follow the steps above, but the last is just a absolute image difference with each of the number-templates. Then take the sum of the differences (pixels in the difference image). The one with the minimum is your number.
