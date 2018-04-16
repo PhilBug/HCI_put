@@ -1,2 +1,4 @@
 # HCI_put
-Human - computer interaction
+Human - computer interactions
+
+equations - that learns how to recognise digits and simple calculations
